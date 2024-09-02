@@ -3,10 +3,14 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { ScrollAnimationDirective } from './scroll-animation.directive';
+import { BigPageComponent } from './big-page/big-page.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ScrollAnimationDirective,
+    BigPageComponent
   ],
   imports: [
     BrowserModule,
