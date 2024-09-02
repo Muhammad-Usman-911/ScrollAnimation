@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/3c5fb205-d77d-4d1c-b243-cda2d89f4ab8)
+
+
 # ScrollAnimationDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.3.
